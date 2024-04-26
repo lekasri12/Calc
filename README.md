@@ -157,7 +157,8 @@ margin-bottom: 50px;
 ## OUTPUT:
 ![alt text](<Screenshot 2024-04-26 195946.png>)
 
-![alt text](<Screenshot 2024-04-26 200006-1.png>)
+![Screenshot 2024-04-26 200006](https://github.com/lekasri12/Calc/assets/149037427/58c885be-f28b-462e-8cf7-e415ab012307)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
